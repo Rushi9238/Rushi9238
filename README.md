@@ -1,4 +1,4 @@
-![logo] (./Beige Grey Vlogger YouTube Banner.png)
+![logo] (https://github.com/Rushi9238/Rushi9238/blob/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Rushikesh patil</h1>
