@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40iliyaoblakov%2Fwhat-it-takes-to-become-a-software-developer-do-you-have-it-91daf47e1f36%3Fsource%3Dtag_page---------14-84--------------------63fe5f36_81d8_4db4_b9d0_ab0e2b252795-------17&psig=AOvVaw1zHB3osvOS6a2ViPndrE-j&ust=1691904950490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj4gJ-z1oADFQAAAAAdAAAAABAn"/>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi9238&label=Profile%20views&color=0e75b6&style=flat" alt="rushi9238" /> </p>
 
