@@ -1,4 +1,4 @@
-![logo] ('./Beige Grey Vlogger YouTube Banner.gif')
+![logo] (https://raw.githubusercontent.com/Rushi9238/Rushi9238/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.gif)
 
 
 <h1 align="center">Hi 👋, I'm Rushikesh patil</h1>
